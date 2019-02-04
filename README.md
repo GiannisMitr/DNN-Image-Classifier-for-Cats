@@ -1,4 +1,4 @@
-# DNN Image Classifier for Cats
+# DNN Image Classifier for Cat Images
 A deep neural network with configurable number of hidden layers that classifies cat vs non-cat Images.
 An L layer network is created, with RELU activations in all layers except for the output layer that uses a  SIGMOID.   
 Regularization, momentum and mini-batch techniques are NOT used.       
